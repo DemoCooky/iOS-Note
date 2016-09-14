@@ -30,9 +30,10 @@ UIView
 
 UI控件
 
-名称  |  简介
----- | ----
-[5分钟 搞定UIButton的文本与图片的布局](http://www.jianshu.com/p/a4755c789545)|实现Button中图片和文字位置自由组合
+名称  |  简介  |  笔记
+---- | ---- | ----
+[5分钟 搞定UIButton的文本与图片的布局](http://www.jianshu.com/p/a4755c789545)|实现Button中图片和文字位置自由组合 |实现算法应改为： btn.imageEdgeInsets = UIEdgeInsetsMake(- btn.titleLabel.frame.size.height, btn.titleLabel.frame.size.width,0 ,0);btn.titleEdgeInsets = UIEdgeInsetsMake(btn.imageView.frame.size.height, -btn.imageView.frame.size.width, 0, 0);
+[『零行代码』解决键盘遮挡问题](https://github.com/Draveness/iOS-Source-Code-Analyze/blob/master/contents/IQKeyboardManager/%E3%80%8E%E9%9B%B6%E8%A1%8C%E4%BB%A3%E7%A0%81%E3%80%8F%E8%A7%A3%E5%86%B3%E9%94%AE%E7%9B%98%E9%81%AE%E6%8C%A1%E9%97%AE%E9%A2%98%EF%BC%88iOS%EF%BC%89.md)|解决键盘遮挡问题的IQKeyboardManager 开源库
 
        
        
