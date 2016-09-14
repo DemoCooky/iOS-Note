@@ -13,7 +13,7 @@ UI控件
 
 名称  |  简介
 ---- | ----
-[5分钟 搞定UIButton的文本与图片的布局](http://www.cocoachina.com/ios/20160907/17499.html)|自定义UIButton，实现Button中图片和文字位置自由组合）
+[5分钟 搞定UIButton的文本与图片的布局](http://www.jianshu.com/p/a4755c789545)|实现Button中图片和文字位置自由组合）
 
        
        
