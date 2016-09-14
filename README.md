@@ -10,8 +10,14 @@ Block
 
 名称  |  简介
 ---- | ----
-[Objective-C 拾遗：从Heap and Stack到Block](https://github.com/100mango/zen/blob/master/Objective-C%20%E6%8B%BE%E9%81%97%EF%BC%9A%E4%BB%8EHeap%20and%20Stack%E5%88%B0Block%20/Objective-C%20%E6%8B%BE%E9%81%97%EF%BC%9A%E4%BB%8EHeap%20and%20Stack%E5%88%B0Block%20.md)|Block 的内存管理
+[Objective-C 拾遗：从Heap and Stack到Block](https://github.com/100mango/zen/blob/master/Objective-C%20%E6%8B%BE%E9%81%97%EF%BC%9A%E4%BB%8EHeap%20and%20Stack%E5%88%B0Block%20/Objective-C%20%E6%8B%BE%E9%81%97%EF%BC%9A%E4%BB%8EHeap%20and%20Stack%E5%88%B0Block%20.md)|Block 的内存管理 存疑：用stong和copy修饰block真的一样吗？？
 [Swift与OC真正去理解Block解决循环引用的技巧](http://www.cocoachina.com/ios/20160831/17438.html)|Block解决循环引用
+
+UIView 
+
+名称  |  简介
+---- | ----
+[如何正确地写好一个界面](http://oncenote.com/2015/12/08/How-to-build-UI/)|讲了View的内部机制，以及简单分析MVC、MVP、MVVM三种主流的架构设计模式及其异同
 
 自动布局--AutoLayout
 
