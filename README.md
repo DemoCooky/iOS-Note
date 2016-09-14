@@ -6,6 +6,11 @@ Objective-C
 ---- | ----
 [iOS 集合的深复制与浅复制](https://www.zybuluo.com/MicroCai/note/50592)|深复制与浅复制）
 
+Block
+
+名称  |  简介
+---- | ----
+[Swift与OC真正去理解Block解决循环引用的技巧](http://www.cocoachina.com/ios/20160831/17438.html)|Block解决循环引用）
 
 自动布局--AutoLayout
 
