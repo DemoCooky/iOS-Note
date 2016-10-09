@@ -5,7 +5,7 @@ iOS
 
 名称  |  简介
 ---- | ----
-[iOS 推送全解析，你不可不知的所有 Tips！](http://www.cocoachina.com/ios/20161009/17702.html)|iOS 推送
+[iOS 推送全解析，你不可不知的所有 Tips！](http://www.cocoachina.com/ios/20160908/17511.html)|iOS 推送
 
 
 Objective-C
