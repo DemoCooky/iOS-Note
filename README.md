@@ -47,7 +47,9 @@ UI控件
 
 名称  |  简介
 ---- | ----
+[理一下iOS本地持久化储存（侧重数据库SQLite）](http://www.cocoachina.com/ios/20160323/15764.html)|此篇文章以此为主线，理一理数据库和本地化储存的一些知识
 [在iOS开发中使用FMDB](http://blog.devtang.com/2012/04/22/use-fmdb/)|FMDB 将 SQLite API 进行了很友好的封装，使用上非常方便
+
        
        
         
