@@ -18,7 +18,7 @@ Block
 
 名称  |  简介
 ---- | ----
-[Objective-C 拾遗：从Heap and Stack到Block](https://github.com/100mango/zen/blob/master/Objective-C%20%E6%8B%BE%E9%81%97%EF%BC%9A%E4%BB%8EHeap%20and%20Stack%E5%88%B0Block%20/Objective-C%20%E6%8B%BE%E9%81%97%EF%BC%9A%E4%BB%8EHeap%20and%20Stack%E5%88%B0Block%20.md)|Block 的内存管理 存疑：用stong和copy修饰block真的一样吗？？
+[Objective-C 拾遗：从Heap and Stack到Block](https://github.com/100mango/zen/blob/master/Objective-C%20%E6%8B%BE%E9%81%97%EF%BC%9A%E4%BB%8EHeap%20and%20Stack%E5%88%B0Block%20/Objective-C%20%E6%8B%BE%E9%81%97%EF%BC%9A%E4%BB%8EHeap%20and%20Stack%E5%88%B0Block%20.md)|Block 的内存管理 存疑：用stong和copy修饰block真的一样吗？？（一样！！）
 [Swift与OC真正去理解Block解决循环引用的技巧](http://www.cocoachina.com/ios/20160831/17438.html)|Block解决循环引用
 
 UIView 
